@@ -2,16 +2,16 @@
   "name": "roots-contentful-test-blog",
   "description": "This is a blogging test",
   "dependencies": {
-    "jade": "1.9.x",
+    "jade": "~1.11.0",
     "marked": "0.3.x",
-    "stylus": "0.50.x",
-    "coffee-script": "1.9.x",
-    "autoprefixer-stylus": "0.5.x",
-    "axis": "0.3.x",
+    "stylus": "~0.54.5",
+    "coffee-script": "~1.12.4",
+    "autoprefixer-stylus": "~0.13.0",
+    "axis": "~1.0.0",
     "marked": "0.3.x",
     "rupture": "0.6.x",
-    "roots": "3.0.x",
-    "roots-contentful": "0.0.7",
+    "roots": "~5.1.0",
+    "roots-contentful": "0.0.9",
     "ship": "0.2.x"
   }
 }
